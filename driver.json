@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Ramesh Kumar",
+        "phone": "9876543210",
+        "vehicle": "Maruti Suzuki Swift",
+        "status": "available",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                77.5946,
+                12.9716
+            ]
+        },
+        "earnings": 1200,
+        "createdAt": "2025-11-04T08:30:00Z"
+    },
+    {
+        "name": "Suresh Yadav",
+        "phone": "9812345678",
+        "vehicle": "Hero Splendor",
+        "status": "busy",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                72.8777,
+                19.076
+            ]
+        },
+        "earnings": 2400,
+        "createdAt": "2025-11-03T14:20:00Z"
+    },
+    {
+        "name": "Amit Sharma",
+        "phone": "9123456789",
+        "vehicle": "Tata Nexon EV",
+        "status": "offline",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                77.1025,
+                28.7041
+            ]
+        },
+        "earnings": 0,
+        "createdAt": "2025-11-01T11:45:00Z"
+    }
+]
